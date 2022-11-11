@@ -25,6 +25,10 @@
 #
 # *****************************************************************************
 
+# THIS IS A MODIFCATION OF THE DATA_FUNCTION.PY SCRIPT FROM THE NVIDIA FASTPITCH
+# TEXT-TO-SPEECH SYNTHESIS SYSTEM. TO USE, SUBSTITUTE FASTPITCH'S DATA_FUNCTION.PY
+# PYTHON FILE WITH THIS PYTHON FILE
+
 import functools
 import json
 import re
